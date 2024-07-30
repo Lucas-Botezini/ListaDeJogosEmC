@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1713230602 source:c:\users\lucas_botezini\desktop\utfpr\segundo_semestre\estrutura_de_dados\d_depoisp1\listas_estaticas\aulaex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"itensLista.h"
+
+1713230660 c:\users\lucas_botezini\desktop\utfpr\segundo_semestre\estrutura_de_dados\d_depoisp1\listas_estaticas\aulaex1\itenslista.h
+
+1714690816 source:c:\users\lucas_botezini\desktop\utfpr\segundo_semestre\estrutura_de_dados\d_depoisp1\lista2exercicios\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"itensLista.h"
+
+1714690943 c:\users\lucas_botezini\desktop\utfpr\segundo_semestre\estrutura_de_dados\d_depoisp1\lista2exercicios\ex1\itenslista.h
+
+1714690928 source:c:\users\lucas_botezini\desktop\utfpr\segundo_semestre\estrutura_de_dados\d_depoisp1\lista2exercicios\ex1\itenslista.c
+	<stdio.h>
+	<stdlib.h>
+	"itensLista.h"
+
